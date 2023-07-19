@@ -1,6 +1,9 @@
 # Rocket_Launcher_AR_App
 
-Place a piece of paper in front of the camera that is similar to the image in the application. 
+Place a piece of paper in front of the camera that is similar to the following image:
+
+![image_target_scaled](https://github.com/astelrastogi/Rocket_Launcher_AR_App/assets/54110949/e147a483-8c00-4f6b-9253-501eacb2ddca)
+
 
 Then a rocket will appear and you can launch it using a button. 
 
